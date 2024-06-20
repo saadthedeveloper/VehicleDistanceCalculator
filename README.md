@@ -18,9 +18,10 @@ Hours traveled: 5
 File name: distance.txt
 The resulting distance.txt file will contain:
 
-Hours Distance Travelled
-1 60 Miles
-2 120 Miles
-3 180 Miles
-4 240 Miles
-5 300 Miles
+| Hours | Distance Travelled |
+|-------|--------------------|
+| 1     | 60 Miles           |
+| 2     | 120 Miles          |
+| 3     | 180 Miles          |
+| 4     | 240 Miles          |
+| 5     | 300 Miles          |
