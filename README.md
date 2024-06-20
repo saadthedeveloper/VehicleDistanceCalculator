@@ -13,10 +13,10 @@ This Java application calculates the distance traveled by a vehicle given its sp
 ## Example
 When prompted, if you input the following:
 
-Speed: 60 miles per hour
-Hours traveled: 5
-File name: distance.txt
-The resulting distance.txt file will contain:
+- Speed: 60 miles per hour
+- Hours traveled: 5
+- File name: distance.txt
+- The resulting distance.txt file will contain:
 
 | Hours | Distance Travelled |
 |-------|--------------------|
